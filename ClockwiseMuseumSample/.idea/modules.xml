@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClockwiseMuseumSample.iml" filepath="$PROJECT_DIR$/ClockwiseMuseumSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ustwo-clockwise-museum-sample-common/ustwo-clockwise-museum-sample-common.iml" filepath="$PROJECT_DIR$/ustwo-clockwise-museum-sample-common/ustwo-clockwise-museum-sample-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ustwo-clockwise-museum-sample-companion/ustwo-clockwise-museum-sample-companion.iml" filepath="$PROJECT_DIR$/ustwo-clockwise-museum-sample-companion/ustwo-clockwise-museum-sample-companion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ustwo-clockwise-museum-sample-wearable/ustwo-clockwise-museum-sample-wearable.iml" filepath="$PROJECT_DIR$/ustwo-clockwise-museum-sample-wearable/ustwo-clockwise-museum-sample-wearable.iml" />
+    </modules>
+  </component>
+</project>
